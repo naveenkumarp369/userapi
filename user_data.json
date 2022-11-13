@@ -1,0 +1,47 @@
+{
+   "user":[
+        {
+             "id":1,
+             "name":"John",
+             "age":30,
+             "address":{
+                "streetAddress":"21 2nd Street",
+                "city":"New York",
+                "state":"NY",
+                "postalCode":"10021"
+             },
+             "phoneNumber":[
+                {
+                 "type":"home",
+                 "number":"212 555-1234"
+                },
+                {
+                 "type":"fax",
+                 "number":"646 555-4567"
+                }
+             ]
+        },
+        {
+             "id":2,
+             "name":"Mary",
+             "age":28,
+             "address":{
+                "streetAddress":"22 2nd Street",
+                "city":"New York",
+                "state":"NY",
+                "postalCode":"10021"
+             },
+             "phoneNumber":[
+                {
+                 "type":"home",
+                 "number":"212 555-2345"
+                },
+                {
+                 "type":"fax",
+                 "number":"646 555-5678"
+                }
+             ]
+        }
+     
+   ]
+}
