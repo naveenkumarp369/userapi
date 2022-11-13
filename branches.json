@@ -1,0 +1,112 @@
+[
+    {
+        "branchId": 1,
+        "branchName": "Coimbatore"
+      },
+      {
+        "branchId": 2,
+        "branchName": "Chennai"
+      },
+      {
+        "branchId": 3,
+        "branchName": "Madurai"
+      }
+      ,
+        {
+            "branchId": 4,
+            "branchName": "Trichy"
+        },
+        {
+            "branchId": 5,
+            "branchName": "Salem"
+        }
+        ,
+        {
+            "branchId": 6,
+            "branchName": "Erode"
+        },
+        {
+            "branchId": 7,
+            "branchName": "Tirupur"
+        },
+        {
+            "branchId": 8,
+            "branchName": "Dindigul"
+        },
+        {
+            "branchId": 9,
+            "branchName": "Vellore"
+        },
+        {
+            "branchId": 10,
+            "branchName": "Tirunelveli"
+        },
+        {
+            "branchId": 11,
+            "branchName": "Tirupathi"
+        },
+        {
+            "branchId": 12,
+            "branchName": "Kanchipuram"
+        },
+        {
+            "branchId": 13,
+            "branchName": "Kumbakonam"
+        },
+        {
+            "branchId": 14,
+            "branchName": "Nagercoil"
+        },
+        {
+            "branchId": 15,
+            "branchName": "Thanjavur"
+        },
+        {
+            "branchId": 16,
+            "branchName": "Tiruvannamalai"
+        },
+        {
+            "branchId": 17,
+            "branchName": "Tiruchengode"
+        },
+        {
+            "branchId": 18,
+            "branchName": "Tiruvallur"
+        },
+        {
+            "branchId": 19,
+            "branchName": "Tiruvannamalai"
+        },
+        {
+            "branchId": 20,
+            "branchName": "Tiruvannamalai"
+        },
+        {
+            "branchId": 21,
+            "branchName": "Tiruvannamalai"
+        },
+        {
+            "branchId": 22,
+            "branchName": "Tiruvannamalai"
+        },
+        {
+            "branchId": 23,
+            "branchName": "Tiruvannamalai"
+        },
+        {
+            "branchId": 24,
+            "branchName": "Tiruvannamalai"
+        },
+        {
+            "branchId": 25,
+            "branchName": "Tiruvannamalai"
+        },
+        {
+            "branchId": 26,
+            "branchName": "Tiruvannamalai"
+        },
+        {
+            "branchId": 27,
+            "branchName": "Tiruvannamalai"
+        }
+]
