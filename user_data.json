@@ -19,7 +19,29 @@
                  "type":"fax",
                  "number":"646 555-4567"
                 }
-             ]
+             ],
+                "children":[
+                    {
+                    "name":"Sara",
+                    "age":5
+                    },
+                    {
+                    "name":"Zoe",
+                    "age":3
+                    }
+                ],
+                "vechicle":[
+                    {
+                    "type":"car",
+                    "model":"BMW",
+                    "color":"red"
+                    },
+                    {
+                    "type":"bike",
+                    "model":"Honda",
+                    "color":"blue"
+                    }
+                ]
         },
         {
              "id":2,
