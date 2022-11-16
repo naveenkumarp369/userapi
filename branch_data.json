@@ -1,0 +1,380 @@
+{
+    "data": [
+        {
+            "_id": "097cc129-5013-4395-ac41-8c729e2715af",
+            "RegionId": 10,
+            "DivisionId": 101,
+            "DivisionName": "GANDHIPURAM",
+            "EmailId": "gandhipuram@arisecapital.in",
+            "IsActive": true,
+            "Longitude": 76.9674,
+            "Latitude": 11.0176
+        },
+        {
+            "_id": "ea0d3704-e816-44d3-81a3-d8294f19103a",
+            "RegionId": 10,
+            "DivisionId": 102,
+            "DivisionName": "COVAI",
+            "EmailId": "covai@arisecapital.in",
+            "IsActive": true,
+            "Longitude": 76.9558,
+            "Latitude": 11.0168
+        },
+        {
+            "_id": "44d3d555-2638-4b77-a6a9-35769b72f6a3",
+            "RegionId": 10,
+            "DivisionId": 103,
+            "DivisionName": "POLLACHI",
+            "EmailId": "pollachi@arisecapital.in",
+            "IsActive": true,
+            "Longitude": 77.0048,
+            "Latitude": 10.6609
+        },
+        {
+            "_id": "9d5d7d9c-3d32-43d8-898d-22f544a8e621",
+            "RegionId": 10,
+            "DivisionId": 104,
+            "DivisionName": "TIRUPPUR",
+            "EmailId": "tiruppur@arisecapital.in",
+            "IsActive": true,
+            "Longitude": 77.3411,
+            "Latitude": 11.1085
+        },
+        {
+            "_id": "51018829-c564-43d8-94c5-a79ea24ae6c5",
+            "RegionId": 10,
+            "DivisionId": 105,
+            "DivisionName": "GOBI",
+            "EmailId": "gobi@arisecapital.in",
+            "IsActive": true,
+            "Longitude": 77.4365,
+            "Latitude": 11.4548
+        },
+        {
+            "_id": "e5339066-1272-4616-a464-e629702963a5",
+            "RegionId": 10,
+            "DivisionId": 106,
+            "DivisionName": "VADAVALLI",
+            "EmailId": "vadavalli@arisecapital.in",
+            "IsActive": true,
+            "Longitude": 76.9974,
+            "Latitude": 11.2388
+        },
+        {
+            "_id": "05177d28-c43c-4026-a807-4f6316df7bd3",
+            "RegionId": 10,
+            "DivisionId": 107,
+            "DivisionName": "PALANI",
+            "EmailId": "palani@arisecapital.in",
+            "IsActive": true,
+            "Longitude": 77.5161,
+            "Latitude": 10.45
+        },
+        {
+            "_id": "18f1094d-f5c3-484b-9584-4a4e2768e3b5",
+            "RegionId": 11,
+            "DivisionId": 111,
+            "DivisionName": "SALEM",
+            "EmailId": "salem@arisecapital.in",
+            "IsActive": true,
+            "Longitude": 78.146,
+            "Latitude": 11.6643
+        },
+        {
+            "_id": "4f6029ec-06be-4267-b3b4-413ce673572e",
+            "RegionId": 11,
+            "DivisionId": 112,
+            "DivisionName": "BHAVANI",
+            "EmailId": "bhavani@arisecapital.in",
+            "IsActive": true,
+            "Longitude": 77.684,
+            "Latitude": 11.4471
+        },
+        {
+            "_id": "76ec6bc6-a7d3-44d2-883f-42aaec843274",
+            "RegionId": 11,
+            "DivisionId": 113,
+            "DivisionName": "NAMAKKAL",
+            "EmailId": "namakkal@arisecapital.in",
+            "IsActive": true,
+            "Longitude": 78.1678,
+            "Latitude": 11.2194
+        },
+        {
+            "_id": "808e82e6-8452-4479-8c26-3ebdf1d00f1e",
+            "RegionId": 11,
+            "DivisionId": 114,
+            "DivisionName": "ERODE",
+            "EmailId": "erode@arisecapital.in",
+            "IsActive": true,
+            "Longitude": 77.7172,
+            "Latitude": 11.341
+        },
+        {
+            "_id": "ef34e259-e3e9-442b-8ab5-bd289bff7491",
+            "RegionId": 11,
+            "DivisionId": 115,
+            "DivisionName": "ATTUR",
+            "EmailId": "attur@arisecapital.in",
+            "IsActive": true,
+            "Longitude": 78.5974,
+            "Latitude": 11.5983
+        },
+        {
+            "_id": "896129d4-9d15-4618-a0c8-6337db921c2a",
+            "RegionId": 12,
+            "DivisionId": 121,
+            "DivisionName": "CHENNAI",
+            "EmailId": "chennai@arisecapital.in",
+            "IsActive": true,
+            "Longitude": 80.2707,
+            "Latitude": 13.0827
+        },
+        {
+            "_id": "f9a760d5-634a-4106-a475-17232590642f",
+            "RegionId": 12,
+            "DivisionId": 122,
+            "DivisionName": "TIRUVALLUR",
+            "EmailId": "tiruvallur@arisecapital.in",
+            "IsActive": true,
+            "Longitude": 79.912,
+            "Latitude": 13.1231
+        },
+        {
+            "_id": "9ee46426-9762-49c6-ab6b-4d2b6d2a1a08",
+            "RegionId": 12,
+            "DivisionId": 123,
+            "DivisionName": "TIRUVANNAMALAI",
+            "EmailId": "tiruvannamalai@arisecapital.in",
+            "IsActive": true,
+            "Longitude": 79.0747,
+            "Latitude": 12.2253
+        },
+        {
+            "_id": "110423a1-d5ec-4e67-baa1-803a63326d6e",
+            "RegionId": 12,
+            "DivisionId": 124,
+            "DivisionName": "VELLORE",
+            "EmailId": "vellore@arisecapital.in",
+            "IsActive": true,
+            "Longitude": 79.1325,
+            "Latitude": 12.9165
+        },
+        {
+            "_id": "e06bb36d-cb56-4dc1-9ea3-c39142182f64",
+            "RegionId": 12,
+            "DivisionId": 125,
+            "DivisionName": "KANCHIPURAM",
+            "EmailId": "kanchipuram@arisecapital.in",
+            "IsActive": true,
+            "Longitude": 79.6947,
+            "Latitude": 12.8185
+        },
+        {
+            "_id": "f28782d2-5178-4abf-b945-c42a749d2a62",
+            "RegionId": 13,
+            "DivisionId": 131,
+            "DivisionName": "TRICHY",
+            "EmailId": "trichy@arisecapital.in",
+            "IsActive": true,
+            "Longitude": 78.7047,
+            "Latitude": 10.7905
+        },
+        {
+            "_id": "c35ee18b-4afa-4b04-a1ef-09703f9cd178",
+            "RegionId": 13,
+            "DivisionId": 132,
+            "DivisionName": "PUDUKKOTTAI",
+            "EmailId": "pudukkottai@arisecapital.in",
+            "IsActive": true,
+            "Longitude": 78.8001,
+            "Latitude": 10.3833
+        },
+        {
+            "_id": "c1d2b69a-04cf-4f9f-aebf-adbcf4731394",
+            "RegionId": 13,
+            "DivisionId": 133,
+            "DivisionName": "THANJAVUR",
+            "EmailId": "thanjavur@arisecapital.in",
+            "IsActive": true,
+            "Longitude": 79.1378,
+            "Latitude": 10.787
+        },
+        {
+            "_id": "3510d735-7bb2-4fdf-bed4-8657130d24a5",
+            "RegionId": 13,
+            "DivisionId": 134,
+            "DivisionName": "PATTUKOTTAI",
+            "EmailId": "pattukottai@arisecapital.in",
+            "IsActive": true,
+            "Longitude": 79.32,
+            "Latitude": 10.4232
+        },
+        {
+            "_id": "8c1a2e66-317c-4834-b613-f411a3b09a98",
+            "RegionId": 13,
+            "DivisionId": 135,
+            "DivisionName": "KUMBAKONAM",
+            "EmailId": "kumbakonam@arisecapital.in",
+            "IsActive": true,
+            "Longitude": 79.3845,
+            "Latitude": 10.9602
+        },
+        {
+            "_id": "acb7fb95-6515-4c7c-a521-276ffe0f4829",
+            "RegionId": 14,
+            "DivisionId": 141,
+            "DivisionName": "CHIDAMBARAM",
+            "EmailId": "chidambaram@arisecapital.in",
+            "IsActive": true,
+            "Longitude": 79.6912,
+            "Latitude": 11.407
+        },
+        {
+            "_id": "a3ffc848-59e2-419a-8c10-5f5296b1a56e",
+            "RegionId": 14,
+            "DivisionId": 142,
+            "DivisionName": "VADALUR",
+            "EmailId": "vadalur@arisecapital.in",
+            "IsActive": true,
+            "Longitude": 79.5545,
+            "Latitude": 11.5688
+        },
+        {
+            "_id": "f22643fd-b03f-4b9e-b538-76d70799bc03",
+            "RegionId": 14,
+            "DivisionId": 143,
+            "DivisionName": "CUDDALORE",
+            "EmailId": "cuddalore@arisecapital.in",
+            "IsActive": true,
+            "Longitude": 79.7714,
+            "Latitude": 11.748
+        },
+        {
+            "_id": "a1c77c6e-6138-4f61-ad77-e78226713b2f",
+            "RegionId": 15,
+            "DivisionId": 151,
+            "DivisionName": "MADURAI",
+            "EmailId": "madurai@arisecapital.in",
+            "IsActive": true,
+            "Longitude": 78.1198,
+            "Latitude": 9.9252
+        },
+        {
+            "_id": "81484b75-be9a-413e-9bdf-9ccdadefa39e",
+            "RegionId": 15,
+            "DivisionId": 152,
+            "DivisionName": "SIVAKASI central",
+            "EmailId": "sivakasi@arisecapital.in",
+            "IsActive": true,
+            "Longitude": 77.8024,
+            "Latitude": 9.4533
+        },
+        {
+            "_id": "6cdfffba-1e3f-44ac-b20d-c002f4c35db1",
+            "RegionId": 15,
+            "DivisionId": 153,
+            "DivisionName": "NELLAI",
+            "EmailId": "nellai@arisecapital.in",
+            "IsActive": true,
+            "Longitude": 77.7567,
+            "Latitude": 8.7139
+        },
+        {
+            "_id": "0652c3ea-fed5-40d5-9459-cfd9c44f11a4",
+            "RegionId": 15,
+            "DivisionId": 154,
+            "DivisionName": "THOOTHUKUDI",
+            "EmailId": "thoothukudi@arisecapital.in",
+            "IsActive": true,
+            "Longitude": 78.1348,
+            "Latitude": 8.7642
+        },
+        {
+            "_id": "e545109f-b721-4165-9c7b-39a9a8b1c96f",
+            "RegionId": 14,
+            "DivisionId": 144,
+            "DivisionName": "THIRUVARUR",
+            "EmailId": "thiruvarur@arisecapital.in",
+            "IsActive": true,
+            "Longitude": 79.6344,
+            "Latitude": 10.7661
+        },
+        {
+            "_id": "4245f044-aee7-4cbc-80f5-d9d8494c6189",
+            "RegionId": 15,
+            "DivisionId": 155,
+            "DivisionName": "DINDIGAL",
+            "EmailId": "dindigal@arisecapital.in",
+            "IsActive": true,
+            "Longitude": 77.9695,
+            "Latitude": 10.3624
+        },
+        {
+            "_id": "884c199d-5c46-478f-acaf-6e4f6fb51548",
+            "RegionId": 15,
+            "DivisionId": 156,
+            "DivisionName": "RAMANATHAPURAM",
+            "EmailId": "ramanathapuram@arisecapital.in",
+            "IsActive": true,
+            "Longitude": 78.8395,
+            "Latitude": 9.3639
+        },
+        {
+            "_id": "018e1874-6b9c-462e-8a6c-a5098ea82d4a",
+            "RegionId": 1001,
+            "DivisionId": 2000,
+            "DivisionName": "Karaikudi",
+            "EmailId": "Karaikudi@arisecapital.in",
+            "IsActive": true,
+            "__v": 0,
+            "Longitude": 78.7732,
+            "Latitude": 10.0735
+        },
+        {
+            "_id": "569aac00-0492-4d2a-8228-bc594482d317",
+            "RegionId": 10,
+            "DivisionId": 1011,
+            "DivisionName": "tesr2",
+            "EmailId": "tester2@arisecapital.in",
+            "Latitude": 12.6,
+            "Longitude": 12.6,
+            "IsActive": true,
+            "__v": 0
+        },
+        {
+            "_id": "27aa1514-0634-4516-8176-44cf9676bca2",
+            "RegionId": 10,
+            "DivisionId": 1017,
+            "DivisionName": "sdf",
+            "EmailId": "tester@arisecapital.in",
+            "Latitude": 12.52,
+            "Longitude": 12.6,
+            "IsActive": true,
+            "__v": 0
+        },
+        {
+            "_id": "aee46839-75be-44e1-bd2e-faecd6fccd80",
+            "RegionId": 10,
+            "DivisionId": 56987,
+            "DivisionName": "Samplers",
+            "EmailId": "samplers@arisecapital.in",
+            "Latitude": 15.36,
+            "Longitude": 18.32,
+            "IsActive": true,
+            "__v": 0
+        },
+        {
+            "_id": "ba41d437-5174-4d94-ae9d-a92f02eb54dd",
+            "RegionId": 2001,
+            "DivisionId": 2004,
+            "DivisionName": "TEST2",
+            "EmailId": "test2@arisecapital.in",
+            "Latitude": 12.3,
+            "Longitude": 12.366,
+            "IsActive": true,
+            "__v": 0
+        }
+    ],
+    "message": "getAllDivisions"
+}
